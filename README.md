@@ -38,7 +38,7 @@ understand the network between actors and directors
 what exactly Netflix is focusing on
 and sentiment analysis of content available on Netflix
 
-# [PROJECT 4: Data Analysis - E-Commerce Recommendation Engine](https://github.com/Skrishna4548/PORTFOLIO/blob/main/Recommendation_system_E_Commerce.sql)
+# [PROJECT 4: Data Analysis - E-Commerce Recommendation Engine](https://github.com/Skrishna4548/SK_PORTFOLIO/blob/main/Recommendation_system_E_Commerce.sql)
 3Description:
 
 Dynamic and results-driven Data Analyst with expertise in developing and optimizing recommendation engines for e-commerce platforms. Proficient in leveraging SQL for data analysis, user segmentation, and recommendation generation to enhance user experience and drive sales.
